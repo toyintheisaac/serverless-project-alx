@@ -1,0 +1,1 @@
+git pull origin main && git add . && git commit -m 'added chenages to' && git push origin main
